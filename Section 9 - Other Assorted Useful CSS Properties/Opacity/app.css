@@ -1,0 +1,12 @@
+section {
+    background-color: magenta;
+    width: 800px;
+    height: 800px;
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    background-color: aqua;
+    opacity: 0%;
+}

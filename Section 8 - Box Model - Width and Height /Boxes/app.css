@@ -1,0 +1,39 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+h1 {
+    background-color: skyblue;
+    margin: 0;
+}
+
+#one {
+    border-color: purple;
+    border-width: 5px;
+    border-style: dashed;
+    border-left-color: red;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#two {
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+    margin: 200px;
+}
+
+#three {
+    border-color: green;
+    border-width: 8px;
+    border-style: dotted;
+    border-left-style: solid;
+    border-radius: 50%;
+}
+
+button {
+    padding: 10px 20px 30px 40px;
+}

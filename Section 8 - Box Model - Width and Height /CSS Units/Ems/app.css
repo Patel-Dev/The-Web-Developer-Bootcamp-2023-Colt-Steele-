@@ -1,0 +1,59 @@
+html {
+    font-size: 50px;
+}
+
+#ems {
+    font-size: 50px;
+}
+
+#ems h1 {
+    font-size: 2em;
+}
+
+#ems h2 {
+    font-size: 1.5em;
+}
+
+#ems h3 {
+    font-size: 1em;
+}
+
+#ems button {
+    background-color: turquoise;
+    font-size: 1em;
+    width: 10em;
+    height: 2em;
+    border-radius: 0.5em;
+}
+
+#ems ul {
+    font-size: 2em;
+}
+
+#rems article {
+    font-size: 50px;
+}
+
+#rems h1 {
+    font-size: 2rem;
+}
+
+#rems h2 {
+    font-size: 1.5rem;
+}
+
+#rems h3 {
+    font-size: 1rem;
+}
+
+#rems button {
+    background-color: turquoise;
+    font-size: 1rem;
+    width: 10rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+}
+
+#rems ul {
+    font-size: 2rem;
+}

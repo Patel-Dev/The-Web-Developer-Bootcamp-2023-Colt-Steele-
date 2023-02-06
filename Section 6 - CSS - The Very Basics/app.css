@@ -1,0 +1,18 @@
+h2 {
+    color: #fcfcfc;
+    background-color: aqua
+}
+
+button {
+    color: red;
+    background-color: darkblue;
+}
+
+p {
+    color: grey;
+    background: purple;
+}
+
+body {
+    background-color: rgb(81, 65, 65);
+}
