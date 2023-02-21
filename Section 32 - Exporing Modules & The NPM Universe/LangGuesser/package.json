@@ -1,0 +1,17 @@
+{
+  "name": "langguesser",
+  "version": "1.0.0",
+  "description": "Guesses language based on text inputted from command line!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dev Patel",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.1.0",
+    "langs": "^2.0.0"
+  },
+  "type": "module"
+}
