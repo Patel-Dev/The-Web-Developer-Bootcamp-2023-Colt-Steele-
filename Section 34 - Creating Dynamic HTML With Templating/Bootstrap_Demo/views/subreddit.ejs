@@ -1,0 +1,35 @@
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel=stylesheet href="/css/bootstrap.min.css">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <title>
+        <%= name %>
+    </title>
+</head>
+
+<body>
+    <h1>Browsing the <%= name %> subreddit!</h1>
+
+    <h2><%= description %></h2>
+    <p><%= subscribers %> Total Subscribers</p>
+
+    <% for (let post of posts) { %>
+        <article>
+            <p><%= post.title %> - <b><%= post.author %></b></p>
+            <% if (post.img) { %>
+                <img src=<%= post.img %>>
+            <% } %>
+            </article>
+    <% } %>
+
+</body>
+
+</html>
