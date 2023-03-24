@@ -10,14 +10,12 @@ HTML5, CSS3 (incl. Flexbox), Bootstrap 5, Semantic UI, Bulma, JavaScript, AJAX, 
 ## OTHER SKILLS
 Responsive design, templating, database associations, schema design, authentication from scratch, cookies & sessions, authorization, security issues, deploying apps, cloud databases, image upload and storage, maps and geocoding. 
 
-## So far, I have learned:
+## I have learned:
 - The ins and outs of HTML5, CSS3, and Modern JavaScript
 - How to create static HTML and CSS portfolio sites and landing pages
 - How to create complex HTML forms with validations
 - CSS Frameworks including Bootstrap 5, Semantic UI, and Bulma
 - JavaScript variables, conditionals, loops, functions (including higher-order functions), arrays, and objects
-
-## Currently exploring:
 - DOM manipulation with vanilla JS
 - Postman to monitor and test APIs
 - Express and MongoDB to create full-stack JS applications
